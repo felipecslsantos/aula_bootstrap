@@ -1,8 +1,9 @@
 .navbar{
-    background-color: brown;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
 }
 .quemsomos{
-     background-color: blueviolet;
+     background-color: rgb(206, 71, 66);
 }
 .margin{
     padding-top: 30px;
